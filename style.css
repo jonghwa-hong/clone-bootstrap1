@@ -20,6 +20,21 @@ body {
   top: 50%;
   transform: translateY(-50%);
 }
+.fa-html5 {
+  font-size: 10rem;
+  padding-bottom: 1rem;
+  color: orangered;
+}
+.fa-bootstrap {
+  font-size: 10rem;
+  padding-bottom: 1rem;
+  color: #6648b1;
+}
+.fa-css3 {
+  font-size: 10rem;
+  padding-bottom: 1rem;
+  color: royalblue;
+}
 .carousel-caption h1 {
   font-size: 500%;
   text-transform: uppercase;
@@ -59,6 +74,12 @@ body {
   width: 95%;
   margin-top: 0.3rem;
   margin-bottom: 1rem;
+}
+.social {
+  font-size: 2rem;
+}
+a:link {
+  text-decoration: none;
 }
 
 /* 
